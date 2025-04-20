@@ -43,7 +43,7 @@ P(x) = a_0 + a_1(x - x_0) + a_2(x - x_0)(x - x_1) + \dots
 
 ### 📸 Resultado en Excel
 
-![Interpolación de Newton](./Screenshot 2025-04-20 001113.png)
+![Interpolación de Newton](./Screenshot%202025-04-20%20001113.png)
 
 ### 📈 Resultado
 
@@ -68,7 +68,7 @@ Este método asegura que el polinomio pase exactamente por todos los puntos.
 
 ### 📸 Resultado en Excel
 
-![Interpolación de Lagrange](./Screenshot 2025-04-20 001128.png)
+![Interpolación de Lagrange](./Screenshot%202025-04-20%20001128.png)
 
 ### 📈 Resultado
 
@@ -97,7 +97,7 @@ En el spline **natural**, se cumple que \(c_0 = 0\) y \(c_n = 0\).
 
 ### 📸 Resultado en Excel
 
-![Interpolación por Splines](./Screenshot 2025-04-20 001151.png)
+![Interpolación por Splines](./Screenshot%202025-04-20%20001151.png)
 
 ### 📈 Resultado
 
@@ -123,7 +123,7 @@ Se implementó en Excel usando:
 
 ### 📸 Resultado en Excel
 
-![Regresión Polinomial](.Screenshot 2025-04-20 001205.png)
+![Regresión Polinomial](./Screenshot%202025-04-20%20001205.png)
 
 ### 📈 Resultado
 
