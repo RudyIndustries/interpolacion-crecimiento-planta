@@ -1,6 +1,14 @@
 # 🌱 Interpolación del crecimiento de la planta
 
+**Materia:** Análisis Numérico  
+**Integrantes:**
+- Rudy Luis Mamani Choque  
+- Fabricio Emanuel Martínez Condorena  
+- Alvin Akin Mamani Maldonado  
+- Gabriel Romero Dueñas  
+
 Este proyecto presenta una comparación entre distintos métodos de interpolación polinomial, aplicados al crecimiento de especies vegetales como **Eugenia stipitata** e **Inga spectabilis**.
+
 
 Se estima la **altura de la planta en el día 170**, usando:
 
