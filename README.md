@@ -153,5 +153,7 @@ Los otros métodos convergen a valores cercanos, lo cual valida su robustez.
 
 ---
 
-## 🗂 Estructura del proyecto
+## VIDEO
+[![Ver en YouTube](https://img.youtube.com/vi/TU_ID_DEL_VIDEO/0.jpg)](https://www.youtube.com/watch?v=TU_ID_DEL_VIDEO)
+
 
